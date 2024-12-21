@@ -91,9 +91,9 @@ report.pdf
 - **Data Type Inconsistencies**: Ensured all numeric values are properly converted and validated to prevent analysis errors.
 
 
-- ***Reporting and Visualization**
-- Generate visualizations using `matplotlib`, `seaborn`, and `plotly`.
-- Create a report.
+## **Reporting and Visualization**
+- **Generate visualizations using `matplotlib`, `seaborn`, and `plotly`.**
+- **Create a report.**
 
 ---
 
