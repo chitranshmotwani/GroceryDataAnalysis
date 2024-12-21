@@ -112,15 +112,26 @@ report.pdf
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/wdd1/canadian-grocery-prices.git
-cd canadian-grocery-prices
+git clone https://github.com/chitranshmotwani/GroceryDataAnalysis.git
+cd GroceryDataAnalysis
 ```
 
 ### **2. Install Required Packages**
-
-#### Using pip:
 ```bash
 pip install -r requirements.txt
 ```
 
-### **3. Run Scripts**
+### **3. Download Required Data Files**
+1. Download the zip file containing the data from the following link: [Download Hammer Data](https://jacobfilipp.com/hammerdata/hammer-5-csv.zip).
+2. Extract the contents of the zip file.
+3. Place the `hammer-4-raw.csv` and `hammer-4-product.csv` files into the `data` folder within your cloned repository.
+
+### **4. Run Preprocessing Script**
+```bash
+python scripts/preprocess.py
+```
+This will generate the `cleaned_merged_data.csv` file, which is required for the subsequent analysis.
+
+### **5. Run Scripts**
+After preprocessing, you can run the analysis files in the `notebooks` folder as needed.
+
