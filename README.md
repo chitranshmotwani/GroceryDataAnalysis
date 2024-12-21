@@ -1,4 +1,4 @@
-# **Competition Analysis in Canadian Grocery Prices**
+# **Grocery Data Analysis: Exploring Pricing Trends in Canada**
 
 ## **Overview**
 This project aims to analyze historical grocery price data to uncover pricing trends, competition dynamics, and pricing irregularities within Canada's grocery sector. Using advanced data preprocessing, statistical analysis, and machine learning techniques, the project delivers actionable insights and recommendations to stakeholders.
