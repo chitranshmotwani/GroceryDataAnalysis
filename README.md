@@ -66,10 +66,10 @@ This project aims to analyze historical grocery price data to uncover pricing tr
 ## **Key Deliverables**
 
 1. **Cleaned Dataset**
-- cleaned_merged.csv
+- **`cleaned_merged_data.csv`**: Preprocessed dataset with additional features for analysis.
    
-3. **Comprehensive Report**
-- report.pdf
+2. **Comprehensive Report**
+- **`report.pdf`**: Comprehensive report summarizing findings and recommendations.
 ---
 
 ## **Key Analyses**
