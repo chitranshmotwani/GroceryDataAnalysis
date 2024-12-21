@@ -83,7 +83,7 @@ This project aims to analyze historical grocery price data to uncover pricing tr
    - **`cheapest_vendor.ipynb`**: Analysis to identify the cheapest vendor for different product categories.
    - **`price_change_cluster.ipynb`**: Clustering analysis of price changes over time among different vendors.
 
-**Known Issues Resolved**
+## **Known Issues Resolved**
 
 - **Duplicate Price Entries**: Resolved by deduplicating based on product IDs and consolidating prices for entries that appeared multiple times on the same day.
 - **Inconsistent Vendor Names**: Standardization of vendor names ensures consistency across the dataset.
