@@ -66,10 +66,10 @@ This project aims to analyze historical grocery price data to uncover pricing tr
 ## **Key Deliverables**
 
 1. **Cleaned Dataset**:
--cleaned_merged.csv
--milk.csv
-2. **Comprehensive Report**:
-report.pdf
+-- cleaned_merged.csv
+   
+3. **Comprehensive Report**:
+-- report.pdf
 ---
 
 ## **Key Analyses**
@@ -93,7 +93,7 @@ report.pdf
 
 ## **Reporting and Visualization**
 - **Generate visualizations using `matplotlib`, `seaborn`, and `plotly`.**
-- **Create a report.**
+- **Create a comprehensive report.**
 
 ---
 
