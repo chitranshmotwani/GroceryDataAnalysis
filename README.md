@@ -75,13 +75,13 @@ This project aims to analyze historical grocery price data to uncover pricing tr
 ## **Key Analyses**
 
 1. **Pricing Trends**
--- pricing_strategies.ipynb
--- pricing_trends_milk.ipynb
--- sandwich_pricing.ipynb
+   - **`pricing_strategies.ipynb`**: Analysis of different pricing strategies used by vendors.
+   - **`pricing_trends_milk.ipynb`**: Detailed examination of pricing trends specifically for milk products.
+   - **`sandwich_pricing.ipynb`**: Analysis focused on the pricing of sandwich products across various vendors.
 
 2. **Vendor Comparison**
--- cheapest_vendor.ipynb
--- price_change_cluster.ipynb
+   - **`cheapest_vendor.ipynb`**: Analysis to identify the cheapest vendor for different product categories.
+   - **`price_change_cluster.ipynb`**: Clustering analysis of price changes over time among different vendors.
 
 **Known Issues Resolved**
 
