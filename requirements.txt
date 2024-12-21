@@ -1,0 +1,18 @@
+# requirements.txt
+
+# PySpark
+pyspark
+
+# Data manipulation and analysis
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Statistical modeling and tests
+statsmodels
+
+# For linear regression and statistical tests
+scipy
